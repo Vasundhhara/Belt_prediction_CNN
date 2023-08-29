@@ -11,4 +11,4 @@ This repository outlines the approach taken to develop a multi-label classificat
 
 ## Report:
 
-Find the approach [here] ()
+Find the approach [here] (https://github.com/Vasundhhara/Belt_prediction_CNN/blob/main/Report.pdf)
