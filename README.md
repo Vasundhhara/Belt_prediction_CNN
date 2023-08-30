@@ -11,4 +11,4 @@ This repository outlines the approach taken to develop a multi-label classificat
 
 ## Report:
 
-Find the approach here : https://drive.google.com/file/d/1rHfJUxFaQ-ixLYt_za1GKQSAoDklWzn9/view?usp=sharing
+Find the approach here : [here](https://drive.google.com/file/d/12UTkpXP2GWGYB7FMoMTRpcbxdhbKqqyS/view?usp=drive_link)
